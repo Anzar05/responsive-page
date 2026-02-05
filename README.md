@@ -29,7 +29,7 @@ Tablet: 481px - 768px
 Desktop: 769px - 992px
 Large Desktop: > 993px
 
-💡 Key Learning Points
+💡 Key Learning Points:
 
 This project demonstrates:
 Mobile-first responsive design principles
